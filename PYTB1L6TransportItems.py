@@ -42,4 +42,21 @@ while run == True:
         os.system("cls")
     else:
         run = False
+
+
+
+thislist = ["A", "B", "C"]
+for x in thislist:
+    print(x)
+
+print(thislist[1])
+
+
+
+
+
+
+
+
+
     
